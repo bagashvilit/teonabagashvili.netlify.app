@@ -24,7 +24,7 @@ baseurl: ''
 title: 'My website'
 description: 'This is my new website'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://avatars3.githubusercontent.com/u/46755932?v=4"
 
 # Pagination
 paginate: 5
@@ -36,8 +36,12 @@ navigation_header:
   url: /
 - title: About
   url: /about/
-- title: Blog
-  url: /blog/
+- title: Research
+  url: /research/
+- title: Projects
+  url: /projects
+- title: CV
+  url: /CV
 
 # Footer nav
 navigation_footer:
