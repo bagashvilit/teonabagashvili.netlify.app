@@ -3,4 +3,4 @@ layout: page
 Title: Curriculum Vitae
 ---
 
-<image src="CV_Teona Bagashvili.pdf"/>
+<embed src="CV_Teona Bagashvili.pdf" type="application/pdf">
