@@ -21,8 +21,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'teonabagashvili'
+description: 'This is my personal website'
 permalink: pretty
 logo: "https://avatars3.githubusercontent.com/u/46755932?v=4"
 

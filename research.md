@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: "https://www.microsoft.com/en-us/research/uploads/prod/2019/11/Area_IconHeader_Intell_AI-ML_11_2019_1920x720.png"
+feature_image: "https://img.deusm.com/darkreading/1331840_Slideshow/Slide1CoverArt.jpg"
 title: Allegheny Mozilla Fellow
 ---
 
