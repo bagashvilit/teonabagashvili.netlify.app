@@ -1,6 +1,6 @@
 ---
 layout: page
-feature_image: "https://cdn2.cloudpro.co.uk/sites/cloudprod7/files/styles/thumbnail_large_620x350/public/2020/04/shutterstock_artificial_intelligence_ai.jpg?itok=_EWbQnkc"
+feature_image: "https://www.microsoft.com/en-us/research/uploads/prod/2019/11/Area_IconHeader_Intell_AI-ML_11_2019_1920x720.png"
 title: Allegheny Mozilla Fellow
 ---
 
