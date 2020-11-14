@@ -1,7 +1,7 @@
 ---
 layout: page
 Title: A little bit about me
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://tdwi.org/-/media/TDWI/TDWI/BITW/AI4.jpg"
 feature_text: |
   ## Welcome to my website
 ---
